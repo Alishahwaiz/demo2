@@ -1,7 +1,2 @@
-README.md
-LICENSE
-vcap.json
-vcap.json_template
-run.sh
-database/
-venv/
+launchConfigurations/
+.git/
